@@ -18,3 +18,27 @@ This repository contains my Linux administration practice notes and commands use
 ## Purpose
 
 This repository is part of my Linux and Cloud Operations learning journey and is intended to demonstrate practical Linux administration knowledge.
+
+
+## Repository Structure
+
+- user-management.md
+- file-permissions.md
+- ssh-guide.md
+- systemctl-guide.md
+
+## Target Roles
+
+- Linux Support Engineer
+- Production Support Engineer
+- Technical Support Engineer
+- Cloud Operations Engineer
+
+## Skills Demonstrated
+
+- Linux Administration
+- User Management
+- File Permissions
+- SSH Access
+- Service Management
+- Troubleshooting Basics
