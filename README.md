@@ -42,3 +42,9 @@ This repository is part of my Linux and Cloud Operations learning journey and is
 - SSH Access
 - Service Management
 - Troubleshooting Basics
+
+## Additional Resources
+
+- interview-questions.md
+
+This file contains Linux administration interview questions and answers for revision and interview preparation.
